@@ -1,0 +1,12 @@
+1.Router :
+
+  /: Homepage.jsx
+  /setting : Setting.jsx
+  
+  /auth/: Login.jsx
+  /auth/signup : Signup.jsx
+  /auth/resetpassword : ResetPassword.jsx
+  /auth/forgotpassword : ForgotPassword.jsx
+  
+2.
+
